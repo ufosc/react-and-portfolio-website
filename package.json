@@ -1,0 +1,4 @@
+{
+    "private": true,
+    "workspaces": ["0-create-react-app", "1-hello-world", "2-components", "3-props", "4-state-and-events", "5-conditional-rendering", "7-routing", "final-portfolio"]
+}
